@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.fcfxcte.cn/sitemap.xml
